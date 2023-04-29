@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.fondo {
+    background-image: url(images/fondop.jpg);
+}
+
+nav, footer{
+    background: linear-gradient(45deg, #685C79, #455C7B) !important;
+}
+
+.navbar img {
+    height: 75px;
+    padding: 7px;
+}
+
+.img-primary {
+    width: 80%;
+    border-radius: 20px;
+}
